@@ -28,7 +28,7 @@ Topics covered:
 - Regularization
 - Classification
 
-📄 [View Certificate](Supervised_Machine_Learning.pdf)
+📄 [View Certificate](Supervised_Machine_Learning_Regression_and_Classification.pdf)
 
 ---
 
