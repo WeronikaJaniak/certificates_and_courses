@@ -16,7 +16,7 @@ recommender systems, and reinforcement learning.
 **Topics:** Linear regression, logistic regression, gradient descent,
 feature engineering and regularization.
 
-[View Certificate](Supervised_Machine_Learning_Regression_and_Classification.pdf)
+[View Certificate →](Supervised_Machine_Learning_Regression_and_Classification.pdf)
 
 ---
 
@@ -25,7 +25,7 @@ feature engineering and regularization.
 **Topics:** Neural networks, TensorFlow, multiclass classification,
 decision trees, random forests and boosted trees.
 
-[View Certificate](Advanced_Learning_Algorithms.pdf)
+[View Certificate →](Advanced_Learning_Algorithms.pdf)
 
 ---
 
@@ -34,13 +34,13 @@ decision trees, random forests and boosted trees.
 **Topics:** Clustering, anomaly detection, recommender systems,
 reinforcement learning, MDPs, Bellman equations and Deep Q-Learning.
 
-[View Certificate](Unsupervised_Learning_Recommenders_Reinforcement_Learning.pdf)
+[View Certificate →](Unsupervised_Learning_Recommenders_Reinforcement_Learning.pdf)
 
 ---
 
 ## Specialization Certificate
 
-[View Machine Learning Specialization Certificate](Machine_Learning_Specialization.pdf)
+[View Machine Learning Specialization Certificate →](Machine_Learning_Specialization.pdf)
 
 ## Technologies & Skills
 
