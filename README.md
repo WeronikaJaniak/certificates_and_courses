@@ -1,22 +1,24 @@
 # Certificates & Courses
 
-A collection of my completed professional courses and certifications in
-machine learning, artificial intelligence, robotics, and related technologies.
+Professional certifications and completed courses in machine learning,
+artificial intelligence, robotics, and related technologies.
 
-## Completed Certifications
+## Certifications
 
 ### Machine Learning
 
-**Machine Learning Specialization — DeepLearning.AI & Stanford Online**
+#### Machine Learning Specialization
+**DeepLearning.AI & Stanford Online · Coursera**
 
 Three-course specialization covering supervised learning, neural networks,
-decision trees, unsupervised learning, recommender systems, and reinforcement
-learning.
+decision trees, unsupervised learning, recommender systems, and
+reinforcement learning.
 
-➡️ [View Machine Learning certificates](machine_learning/)
+[View certificates →](machine_learning/)
 
 ---
 
-## Currently Studying
+## Areas of Study
 
-Courses and certifications currently in progress will be added upon completion.
+`Machine Learning` `Deep Learning` `Reinforcement Learning`
+`Computer Vision` `Robotics` `ROS 2` `Embedded AI`
