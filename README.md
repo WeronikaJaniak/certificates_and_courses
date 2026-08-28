@@ -16,6 +16,21 @@ reinforcement learning.
 
 [View certificates →](machine_learning/)
 
+### Deep Learning
+
+#### Deep Learning Specialization
+
+**DeepLearning.AI · Coursera**
+
+Currently progressing through the five-course Deep Learning Specialization,
+covering neural networks, deep learning, optimization, machine learning
+strategy, convolutional neural networks, and sequence models.
+
+**Completed:**
+- Neural Networks and Deep Learning
+
+[View certificates →](deep_learning/)
+
 ---
 
 ## Areas of Study
