@@ -24,7 +24,8 @@ functions, vectorization, shallow neural networks and deep neural networks.
 
 **Topics:** Hyperparameter tuning, regularization, optimization algorithms,
 batch normalization, initialization and gradient checking.
-[View Certificate →](Improving_Deep_Neural_Networks.pdf )
+[View Certificate → ](Improving_Deep_Neural_Networks.pdf )
+
 ---
 
 ### 3. Structuring Machine Learning Projects
