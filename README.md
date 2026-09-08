@@ -28,6 +28,7 @@ strategy, convolutional neural networks, and sequence models.
 
 **Completed:**
 - Neural Networks and Deep Learning
+- Improving Deep Neural Networks
 
 [View certificates →](deep_learning/)
 
@@ -36,4 +37,4 @@ strategy, convolutional neural networks, and sequence models.
 ## Areas of Study
 
 `Machine Learning` `Deep Learning` `Reinforcement Learning`
-`Computer Vision` `Robotics` `ROS 2` `Embedded AI`
+`Computer Vision`
