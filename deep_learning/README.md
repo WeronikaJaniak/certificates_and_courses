@@ -34,6 +34,8 @@ batch normalization, initialization and gradient checking.
 **Topics:** Machine learning strategy, error analysis, bias and variance,
 transfer learning, multi-task learning and end-to-end deep learning.
 
+[View Certificate →](Structuring_Machine_Learning_Projects.pdf) 
+
 ---
 
 ### 4. Convolutional Neural Networks
