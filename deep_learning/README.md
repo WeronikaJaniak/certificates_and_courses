@@ -43,6 +43,8 @@ transfer learning, multi-task learning and end-to-end deep learning.
 **Topics:** Convolutional neural networks, computer vision, residual networks,
 object detection, face recognition and neural style transfer.
 
+[View Certificate →](Convolutional_Neural_Networks.pdf) 
+
 ---
 
 ### 5. Sequence Models
