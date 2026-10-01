@@ -3,7 +3,6 @@
 **Provider:** DeepLearning.AI & Stanford Online  
 **Instructor:** Andrew Ng  
 **Platform:** Coursera  
-**Status:** Completed
 
 The Machine Learning Specialization provides a foundation in supervised
 learning, neural networks, decision trees, unsupervised learning,
