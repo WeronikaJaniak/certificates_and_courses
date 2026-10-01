@@ -52,6 +52,8 @@ object detection, face recognition and neural style transfer.
 **Topics:** Recurrent neural networks, GRUs, LSTMs, word embeddings,
 attention mechanisms and transformers.
 
+[View Certificate →](Sequence_Models.pdf) 
+
 ---
 
 ## Specialization Certificate
