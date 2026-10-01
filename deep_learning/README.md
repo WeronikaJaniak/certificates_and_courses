@@ -58,7 +58,7 @@ attention mechanisms and transformers.
 
 ## Specialization Certificate
 
-*Specialization in progress.*
+[View Certificate →](Deep_Learning_Specialization.pdf)
 
 ## Technologies & Skills
 
