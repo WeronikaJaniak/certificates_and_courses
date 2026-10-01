@@ -1,7 +1,6 @@
 # Certificates & Courses
 
-Professional certifications and completed courses in machine learning,
-artificial intelligence, robotics, and related technologies.
+Professional certifications and completed courses.
 
 ## Certifications
 
