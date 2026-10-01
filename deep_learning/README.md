@@ -3,7 +3,6 @@
 **Provider:** DeepLearning.AI  
 **Instructor:** Andrew Ng  
 **Platform:** Coursera  
-**Status:** In Progress
 
 The Deep Learning Specialization develops practical and theoretical skills
 in neural networks, deep learning, optimization, computer vision,
